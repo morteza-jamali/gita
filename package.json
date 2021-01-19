@@ -1,0 +1,29 @@
+{
+  "name": "gita",
+  "title": "UIkit",
+  "description": "GitHub Markdown UI Framework",
+  "version": "0.1.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morteza-jamali/gita.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morteza-jamali/gita/issues"
+  },
+  "homepage": "https://github.com/morteza-jamali/gita",
+  "main": "index.js",
+  "keywords": [
+    "github",
+    "readme",
+    "markdown",
+    "framework",
+    "ui kit"
+  ],
+  "author": {
+    "name": "Morteza Jamali",
+    "email": "mortezajamali@gmail.com",
+    "url": "https://morteza-jamali.github.io"
+  }
+}
